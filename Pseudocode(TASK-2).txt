@@ -1,0 +1,8 @@
+START
+input t
+if t==15
+print ("15 den ferqli eded yazdir")
+if t<15 
+print ("Hava soyuqdur")
+if t>15
+print ("Hava istidir")
