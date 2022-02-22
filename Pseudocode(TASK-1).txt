@@ -1,0 +1,6 @@
+START
+input n
+if n%21==0 
+print ("n ədədi 3-ə və 7-ə bölünür")
+else 
+print ("n ədədi 3-ə və 7-ə bölünmür")
